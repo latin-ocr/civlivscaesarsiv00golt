@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./civlivscaesarsiv00golt_0049.png"; bbox 0 0 2410 3506; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 48 459 95 754">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 48 459 95 754">
+     <span class='ocr_line' id='line_1_1' title="bbox 48 459 95 754; baseline 0 2752"><span class='ocrx_word' id='word_1_1' title='bbox 48 459 95 754; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 733 311 1307 352">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 733 311 1307 352">
+     <span class='ocr_line' id='line_1_2' title="bbox 733 311 1307 352; baseline 0.017 -10"><span class='ocrx_word' id='word_1_2' title='bbox 733 311 785 342; x_wconf 85' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_3' title='bbox 807 311 1014 347; x_wconf 60' lang='lat' dir='ltr'>IVLIVS</span> <span class='ocrx_word' id='word_1_4' title='bbox 1063 315 1307 352; x_wconf 66' lang='lat' dir='ltr'><strong>CAESAR.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1236 412 1827 422">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1236 412 1827 422">
+     <span class='ocr_line' id='line_1_3' title="bbox 1236 412 1827 422; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 1236 412 1827 422; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 934 412 1827 426">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 934 412 1827 426">
+     <span class='ocr_line' id='line_1_4' title="bbox 934 412 1827 426; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 934 412 1827 426; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 32 409 1947 3125">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 32 409 1947 3125">
+     <span class='ocr_line' id='line_1_5' title="bbox 32 409 1947 3125; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 32 409 1947 3125; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1881 311 1965 364">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1881 311 1965 364">
+     <span class='ocr_line' id='line_1_6' title="bbox 1881 311 1965 364; baseline 0.06 -5"><span class='ocrx_word' id='word_1_8' title='bbox 1881 311 1965 364; x_wconf 83' lang='lat' dir='ltr'>XI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 1923 787 1935 1795">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 1923 787 1935 1795">
+     <span class='ocr_line' id='line_1_7' title="bbox 1923 787 1935 1795; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 1923 787 1935 1795; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 1322 2856 1913 2866">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 1322 2856 1913 2866">
+     <span class='ocr_line' id='line_1_8' title="bbox 1322 2856 1913 2866; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 1322 2856 1913 2866; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
